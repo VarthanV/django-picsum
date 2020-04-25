@@ -25,7 +25,7 @@ Installation
 
    ``'image_wrapper',``
 
-3. Use the `font-awesome` tag library in your templates
+
 
 
 Example template

@@ -18,7 +18,7 @@ Installation
 
 1. Install using pip:
 
-   ``pip install django-image-wrapper``
+   ``pip install django-picsum``
 
 
 2. Add to INSTALLED_APPS in your ``settings.py``:
@@ -53,6 +53,9 @@ Example template
 
     # You can pass class and id to the image to control it in your CSS it is completely optional
 
+     To  use images from Pixabay declare your API Key in settings.py INSTALLED_APPS
+     
+     PIXABAY_KEY =<YOUR KEY>
 
 
 Requirements

@@ -1,8 +1,8 @@
 =========
-django-image-wrapper
+django-picsum
 =========
 
-django-image-wrapper is a library which helps you in rendering placeholder or actual images 
+django-picsum is a library which helps you in rendering placeholder or actual images 
 
 in your Djangp Template without much of hassle 
 
@@ -54,7 +54,7 @@ Example template
     # You can pass class and id to the image to control it in your CSS it is completely optional
 
      To  use images from Pixabay declare your API Key in settings.py INSTALLED_APPS
-     
+
      PIXABAY_KEY =<YOUR KEY>
 
 

@@ -6,11 +6,10 @@ django-picsum is a library which helps you in rendering placeholder or actual im
 
 in your Djangp Template without much of hassle 
 
-.. image:: https://coveralls.io/repos/github/zostera/django-fa/badge.svg?branch=master
-    :target: https://coveralls.io/github/zostera/django-fa?branch=master
+.. image:: https://pypip.in/download/django-picsum/badge.svg)
+ 
+    :target: https://pypi.org/project/django-picsum/
 
-.. image:: https://travis-ci.org/zostera/django-fa.svg?branch=master
-    :target: https://travis-ci.org/zostera/django-fa
 
 
 Installation
